@@ -1,13 +1,14 @@
 ![](img/artificial-intelligence-g1f8a5f1b5_1920.jpeg)
 
 ### Hi there 👋
+
 I am a software engineer from Italy
 
 ## Connect with me
+
 [<img alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/2882688/firegloves)
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://it.linkedin.com/in/luca-corsetti-51bb823a)
 [<img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@lucorset)
-
 
 ## Expertise
 
@@ -81,18 +82,55 @@ I am a software engineer from Italy
 <br>
 <br>
 
+## Articles
 
-<!--
-**firegloves/firegloves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <div>
+        <a href="https://medium.com/@lucorset/hexagonal-architecture-in-rust-72f8958eb26d">
+            <img alt="Hexagonal architecture in Rust" src="img/articles/hexagon_1.webp"/>
+            <h3>Hexagonal architecture in Rust</h3>
+        </a>
+    </div>
+    <div>
+        <a href="https://towardsdev.com/hexagonal-architecture-in-rust-the-domain-24e9a9a6f2c4">
+            <img alt="Hexagonal architecture in Rust" src="img/articles/hexagon_2.webp"/>
+            <h3>Hexagonal architecture in Rust: the domain</h3>
+        </a>
+    </div>
+    <div>
+        <a href="https://towardsdev.com/hexagonal-architecture-in-rust-the-use-cases-7d5a88bd0a4">
+            <img alt="Hexagonal architecture in Rust" src="img/articles/hexagon_3.webp"/>
+            <h3>Hexagonal architecture in Rust: the use cases</h3>
+        </a>
+    </div>
+    <div>
+        <a href="https://medium.com/towardsdev/hexagonal-architecture-in-rust-driven-adapters-ab02ed335dc5">
+            <img alt="Hexagonal architecture in Rust" src="img/articles/hexagon_4.webp"/>
+            <h3>Hexagonal architecture in Rust: driven adapters</h3>
+        </a>
+    </div>
+    <div>
+        <a href="https://towardsdev.com/hexagonal-architecture-in-rust-driving-adapters-f66f71bb3dd1">
+            <img alt="Hexagonal architecture in Rust" src="img/articles/hexagon_5.webp"/>
+            <h3>Hexagonal architecture in Rust: driving adapters</h3>
+        </a>
+    </div>
+    <div>
+        <a href="https://towardsdev.com/hexagonal-architecture-in-rust-adapter-switching-f4a264ad246f">
+            <img alt="Hexagonal architecture in Rust" src="img/articles/hexagon_6.webp"/>
+            <h3>Hexagonal architecture in Rust: Driven Adapters Switching — CQRS</h3>
+        </a>
+    </div>
+    <div>
+        <a href="https://towardsdev.com/hexagonal-architecture-in-rust-driving-adapters-switching-graphql-5bc64b14f03">
+            <img alt="Hexagonal architecture in Rust" src="img/articles/hexagon_7.webp"/>
+            <h3>Hexagonal architecture in Rust: Driving Adapters Switching — GraphQL</h3>
+        </a>
+    </div>
+    <div>
+        <a href="https://medium.com/@lucorset/mempoi-a-mempo-mask-for-apache-poi-to-let-you-conquer-freedom-and-sip-a-good-mojito-on-the-930e1ca337d8">
+            <img alt="Hexagonal architecture in Rust" src="img/articles/mempoi.webp"/>
+            <h3>MemPOI: a library that uses Apache POI to simplify the export from database to Excel files</h3>
+        </a>
+    </div>
+</div>
