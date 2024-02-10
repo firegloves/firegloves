@@ -2,7 +2,13 @@
 
 ### Hi there 👋
 
-I am a software engineer from Italy
+My passion for technology ignited at a very young age. My father, a dedicated tech enthusiast, introduced me to computers when I was just three years old. This early exposure laid the foundation for my lifelong fascination with all things tech.
+
+Upon entering university, I embarked on my journey of application development. Throughout my career, I've had the opportunity to dive into numerous programming languages and navigate various tech landscapes. This diverse experience allowed me to approach computing from different angles. In the beginning, I often worked independently, honing my skills in technical analysis and problem-solving. I also immersed myself in the exploration of new technologies.
+
+As my career progressed, I transitioned to roles in both small and large companies. These experiences exposed me to a spectrum of software development approaches. Collaborating with colleagues, some well-versed and others still learning, provided invaluable insights. I was able to discern the pitfalls of past mistakes and learn from them. This journey of discovery expanded my knowledge across various programming domains, spanning from web to standalone applications, and from client to server-side development. I delved into the intricacies of different programming languages, as well as the simplicity and power of scripting languages.
+
+For the past few years, I've been working remotely, gaining a profound appreciation for the importance of coordination tools and effective teamwork.
 
 ## Connect with me
 
